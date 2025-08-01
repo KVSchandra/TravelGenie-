@@ -1,4 +1,4 @@
-import Itinerary from "../models/itinerary.js";
+import Itinerary from "../models/Itinerary.js";
 
 export const generateItinerary = async (req, res) => {
   try {
